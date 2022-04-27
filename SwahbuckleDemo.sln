@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwahbuckleDemo", "SwahbuckleDemo.csproj", "{216169F9-4A4F-477D-B53D-8EBE7FA7C5C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{216169F9-4A4F-477D-B53D-8EBE7FA7C5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216169F9-4A4F-477D-B53D-8EBE7FA7C5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216169F9-4A4F-477D-B53D-8EBE7FA7C5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216169F9-4A4F-477D-B53D-8EBE7FA7C5C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D30C1CE-D608-4CC1-89C1-B000AF5C4F18}
+	EndGlobalSection
+EndGlobal
